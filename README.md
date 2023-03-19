@@ -3,9 +3,9 @@
 
 Originally created by [Codehal](https://youtu.be/p1GmFCGuVjw). 
 
-> This project is simply for fun.
+> This project was recreated simply to understand basic things.
 > 
-> I will keep putting here more of my HTML adventures.
+
 
 # 
 
